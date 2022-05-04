@@ -1,1 +1,7 @@
-
+{
+  "Bug Summary":"Короткое описание",
+  "Severity":"Серьезность",
+  "Steps to reproduce":"шаги к воспроизведению",
+  "Actual Result":"Фактический результат",
+  "Expected Result":"Ожидаемый результат"
+}
