@@ -167,11 +167,11 @@ Receiving objects: 100% (3/3), done.
 
 ## __14. Сделать Commit changes (сохранить) изменения на веб интерфейсе:__
 
-![Скриншот_1](https://github.com/gadaborshev/gr29_github_json/blob/main/screenshot_1.png)
+[Скриншот_1](https://github.com/gadaborshev/gr29_github_json/blob/main/screenshot_1.png)
  
 ## __15.На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате json, сделать Commit changes (сохранить) изменения на веб интерфейсе :__
 
-![Скриншот_2](https://github.com/gadaborshev/gr29_github_json/blob/main/screenshot_2.png)
+[Скриншот_2](https://github.com/gadaborshev/gr29_github_json/blob/main/screenshot_2.png)
 
 ## __16. Синхронизировать внешний и локальный репозиторий json:__
 ```
